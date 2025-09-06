@@ -2,14 +2,13 @@
 
 ## Sou Hermann 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermann-91&layout=compact)
+[Veja meu projeto em C#](https://github.com/Hermann-91/seu-repositorio-em-csharp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermann-91&demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermann-91&layout=compact&theme=dark&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermann-91&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hermann-91&theme=dark)
 
-
-![Hermann-91's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermann-91&show_icons=true&theme=radical)
-
-
+<br>
 
 ## Bem-vindo ao meu perfil GitHub! <br>
 Gosto muito da area de tecnologia e marketing digital, desenvolvimento web (HTML5, CSS, React, C#) e gestão de negócios.
