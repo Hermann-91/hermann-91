@@ -30,9 +30,9 @@ Sistema de trading alimentado por inteligência artificial com tomada de decisã
 
 ## 🔗 Vamos nos Conectar
 
-- 💼 [LinkedIn](seu-link-aqui)
-- 📧 email@seu.com
-- 🌐 [Portfólio](seu-link-aqui)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hermannrrsj/)
+- 📧 hermann.rrsj@gmail.com
+- 🌐 [Portfólio](https://github.com/hermann-91)
 
 ## 📚 Aprendendo Atualmente
 
