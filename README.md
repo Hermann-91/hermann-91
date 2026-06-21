@@ -26,7 +26,6 @@ Sistema de trading alimentado por inteligência artificial com tomada de decisã
 - Mais de 1,5 anos de desenvolvimento prático
 - 2 projetos em produção
 - Mais de 500 commits
-- Cerca de 20.000 linhas de código escritas
 
 ## 🔗 Vamos nos Conectar
 
